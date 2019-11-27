@@ -1,0 +1,2 @@
+1、建议使用Google Chrome浏览器打开；
+2、使用 json-server db.json。
